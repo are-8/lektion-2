@@ -43,6 +43,10 @@ public class Main {
 
         System.out.println((10 + 5) * 2 > 20);
 
+        System.out.println();
+
+
+
 
     }
 }
